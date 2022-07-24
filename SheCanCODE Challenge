@@ -1,0 +1,6 @@
+Creating an Account  - First name & last name, email, password, phone number, ID, Bank account
+Account Bonus - "Your account has been successfully created" "Congratulations, you've earned a 1,000 bonus on for creating an account on e-Wallet"
+Login Info - email/phone number & Password 
+Menu after login - Send Money menu, balance inquiry, Transaction list 
+Transfer charges - "</1-10,000>=(-0)". "</10,001-100,000>=(-200)". "</100,001-∞>=(-1,00)" -- Confirmatin OTP confirmation 
+Session Time out - Log the user out after 5 minutes of inactivity 
